@@ -18,3 +18,7 @@ Tools and Libraries Used:
 
 
 DATASET USED: CIFAR-10 dataset. 
+
+INSIGHTS:
+
+Used CIFAR-10 dataset for image classification with Pytorch library in Python and CNN. The accuracy score turns out to be 85.064%. 
